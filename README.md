@@ -1,6 +1,9 @@
 I. currenlty learning and suffering with java, html, css, and jscript🕹
+
 II. print("really hoping com sci won't trouble me")
+
 III. currently living in Manila
+
 IV. 🦑 (comfort food wehehehe)
 
 <!---
